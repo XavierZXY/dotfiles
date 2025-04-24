@@ -132,5 +132,3 @@ export HF_ENDPOINT=https://hf-mirror.com
 
 # Alias config
 alias nvitop="uvx nvitop"
-
-# Test chezmoi
